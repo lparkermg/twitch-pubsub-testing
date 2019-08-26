@@ -5,7 +5,7 @@
 [Bb]uilds/
 Assets/AssetStoreTools*
 Assets/Packages*
-Assets/Nuget
+Assets/Nuget*
 
 # Visual Studio cache directory
 .vs/
@@ -36,3 +36,7 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+# Rider Garbage
+
+.idea
